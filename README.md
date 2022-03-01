@@ -8,5 +8,7 @@ The size and behavior of the boxes will be based on their display values, dimens
 
 # Intrinsic and Extrinsic Sizing
 
-Intrinsic sizing allows the browsers to control the boxes basee on the content of the box while extrinsic sizing gives instructions for the styling/sizing of
- everything inside
+Intrinsic sizing allows the browsers to control the boxes based on the content of the box while extrinsic sizing gives instructions for the styling/sizing of everything inside the element.
+
+If a box is styled with extrinsic sizing and the content of the box is larger than the box, it will result in an overflow of the content out of the box.
+
